@@ -1,27 +1,27 @@
-## First Name Last Name
+Luis Silva  
 
-### Term Year 
+2024 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Chemistry 1
 
-- Course 2
+- Calculus 1
 
-- Course 3
+- Foundations of Data Analytics
 
-- Course 4
+- Flame
 
 **Hobbies:**
 
-I am _passionate about_: 
+I am _passionate about_:.
 
-- Thing 1
+- Playing Soccer
 
-- Thing 2
+- Watching Soccer
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Living in the USA
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2024/09/01
